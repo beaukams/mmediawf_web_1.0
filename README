@@ -1,0 +1,12 @@
+mmediawf: Multimedia application With Ffmpeg
+Description: mmediawf est une application de manipulation des documents multimedia qui se base exclusivement sur l'application opensource ffmpeg. Il permet entre autre:
+->la conversion de format audio/video
+->la capture d'ecran
+->decomposition d'une video en plusieurs
+->decomposition d'un son en plusieurs
+->extraction d'une image
+->extraction du son
+->recomposition d'une video
+->montage de video
+
+Il est muni d'une interface web et d'une interface simple.
